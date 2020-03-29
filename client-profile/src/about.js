@@ -5,7 +5,42 @@ function About() {
     return (
         <div>
             About page
+            <div>
+            About page
         </div>
+        <div>
+            About page
+        </div><div>
+            About page
+        </div><div>
+            About page
+        </div><div>
+            About page
+        </div><div>
+            About page
+        </div>
+        
+        <div>
+            About page
+        </div>
+        <div>
+            About page
+        </div>
+        <div>
+            About page
+        </div><div>
+            About page
+        </div><div>
+            About page
+        </div><div>
+            About page
+        </div><div>
+            About page
+        </div><div>
+            About page
+        </div>
+        </div>
+        
     );
 }
 

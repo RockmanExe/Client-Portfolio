@@ -11,9 +11,12 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+
+      <div className="header">
         <Link to ='/'> <Name/> </Link>
-      </header>
+      </div>
+
+      <div className="content-box">
 
       <div className="mid-section">
           <Route exact path= '/'> Front page </Route>
@@ -32,6 +35,9 @@ function App() {
       <div className='footer'>
         <NavBar/>
       </div>
+
+      </div>
+
     </div>
   );
 }
